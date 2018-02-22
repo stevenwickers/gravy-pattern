@@ -1,0 +1,21 @@
+{
+  "name": "gravy-pattern",
+  "version": "1.0.0",
+  "description": "GraVy Codding Pattern for React / Redux",
+  "main": "index.js",
+  "scripts": {
+    "start": "index.js"
+  },
+  "keywords": [
+    "gravy"
+  ],
+  "author": "Steven Wickers",
+  "license": "MIT",
+  "repository": {
+    "type": "github",
+    "url": "https://github.com/stevenwickers/gravy-pattern.git"
+  },
+  "dependencies": {
+    "make-dir": "^1.2.0"
+  }
+}
